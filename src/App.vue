@@ -3,7 +3,7 @@
 
   export default {
     components: {
-      AppHeader
+      AppTitle
     },
 
     data() {
@@ -15,7 +15,7 @@
 
 <template>
   <div>
-    <AppHeader />
+    <AppTitle />
   </div>
 </template>
 
